@@ -5,5 +5,8 @@ import (
 )
 
 func main() {
-	vendingmachine.Start()
+
+	config := vendingmachine.NewConfig()
+
+	vendingmachine.Start(config)
 }

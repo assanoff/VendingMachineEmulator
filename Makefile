@@ -5,4 +5,8 @@ build:
 test:
 	go test -v -race -timeout 30s ./...
 
+.PHONY: run
+run:
+	./bin/vendingmachine	
+
 .DEFAULT_GOAL := build./

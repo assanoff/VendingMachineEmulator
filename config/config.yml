@@ -1,0 +1,16 @@
+menu:
+    - id: 1
+      coffee:
+        name: espresso
+        water: 250
+        milk: 0
+        beans: 16
+        price: 4
+    - id: 2
+      coffee:
+        name: latte
+        water: 350
+        milk: 0
+        beans: 16
+        price: 4
+
