@@ -1,11 +1,13 @@
 
 .DS_Store
+.vscode
 
 # Binaries for programs and plugins
 *.exe
 *.exe~
 *.so
 /bin/
+
 
 
 
